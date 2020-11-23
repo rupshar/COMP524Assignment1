@@ -1,0 +1,14 @@
+<Events startTimestamp="1600196993515" logVersion="1.0.0.202008151525">
+  <Command __id="1" _type="MoveCaretCommand" caretOffset="374" date="Tue Sep 15 12:09:54 PDT 2020" docOffset="374" starttimestamp="1600196993515" timestamp="510" />
+  <Command __id="2" _type="ShellCommand" date="Tue Sep 15 12:09:57 PDT 2020" starttimestamp="1600196993515" timestamp="4033" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="3" _type="CopyCommand" date="Tue Sep 15 12:10:07 PDT 2020" starttimestamp="1600196993515" timestamp="13886" />
+  <Command __id="4" _type="CopyCommand" date="Tue Sep 15 12:10:07 PDT 2020" starttimestamp="1600196993515" timestamp="14046" />
+  <Command __id="5" _type="CopyCommand" date="Tue Sep 15 12:10:07 PDT 2020" starttimestamp="1600196993515" timestamp="14226" />
+  <Command __id="6" _type="CopyCommand" date="Tue Sep 15 12:10:07 PDT 2020" starttimestamp="1600196993515" timestamp="14359" />
+  <Command __id="7" _type="CopyCommand" date="Tue Sep 15 12:10:08 PDT 2020" starttimestamp="1600196993515" timestamp="14861" />
+  <Command __id="8" _type="CopyCommand" date="Tue Sep 15 12:10:08 PDT 2020" starttimestamp="1600196993515" timestamp="15022" />
+  <Command __id="9" _type="CopyCommand" date="Tue Sep 15 12:10:08 PDT 2020" starttimestamp="1600196993515" timestamp="15190" />
+  <Command __id="10" _type="ShellCommand" date="Tue Sep 15 12:10:10 PDT 2020" starttimestamp="1600196993515" timestamp="17276" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="11" _type="EclipseCommand" commandID="org.eclipse.equinox.p2.ui.sdk.install" date="Tue Sep 15 12:10:10 PDT 2020" starttimestamp="1600196993515" timestamp="17344" />
+  <Command __id="12" _type="ShellCommand" date="Tue Sep 15 12:10:11 PDT 2020" starttimestamp="1600196993515" timestamp="18169" type="ECLIPSE_LOST_FOCUS" />
+</Events>

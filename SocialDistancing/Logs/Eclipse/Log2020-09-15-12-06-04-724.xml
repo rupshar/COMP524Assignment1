@@ -1,0 +1,9 @@
+<Events startTimestamp="1600196764724" logVersion="1.0.0.202008151525">
+  <Command __id="1" _type="MoveCaretCommand" caretOffset="374" date="Tue Sep 15 12:06:05 PDT 2020" docOffset="374" starttimestamp="1600196764724" timestamp="432" />
+  <Command __id="2" _type="ShellCommand" date="Tue Sep 15 12:06:06 PDT 2020" starttimestamp="1600196764724" timestamp="1619" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="3" _type="ShellCommand" date="Tue Sep 15 12:06:13 PDT 2020" starttimestamp="1600196764724" timestamp="9090" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="4" _type="PasteCommand" date="Tue Sep 15 12:07:53 PDT 2020" starttimestamp="1600196764724" timestamp="109210" />
+  <Command __id="5" _type="ShellCommand" date="Tue Sep 15 12:08:02 PDT 2020" starttimestamp="1600196764724" timestamp="117741" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="6" _type="EclipseCommand" commandID="org.eclipse.equinox.p2.ui.sdk.install" date="Tue Sep 15 12:08:02 PDT 2020" starttimestamp="1600196764724" timestamp="117801" />
+  <Command __id="7" _type="ShellCommand" date="Tue Sep 15 12:08:03 PDT 2020" starttimestamp="1600196764724" timestamp="118833" type="ECLIPSE_LOST_FOCUS" />
+</Events>
